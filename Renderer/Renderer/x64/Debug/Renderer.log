@@ -1,0 +1,22 @@
+﻿  dev_app.cpp
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(111,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(288,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(289,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(290,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(291,17): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(350,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(351,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(352,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(353,17): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(392,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(408,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(413,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(419,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(424,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(430,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(435,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(496,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(501,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(506,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\School\END\Labs\MemoryManagement\Renderer\Renderer\dev_app.cpp(772,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Renderer.vcxproj -> F:\School\END\Labs\MemoryManagement\Renderer\x64\Debug\Renderer.exe
