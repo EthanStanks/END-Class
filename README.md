@@ -5,7 +5,7 @@ This repository contains the implementation of an interactive 3D graphics applic
 <h3>Installation</h3>
 To use the implementation, you will need to have a C++ compiler and Visual Studio installed on your computer.
 
-Clone the repository using git clone https://github.com/<your-username>/<your-repo-name>.git.
+Clone the repository using git clone https://github.com/EthanStanks/END-Class.git
 Open the project in Visual Studio.
 Build and run the project.
 
