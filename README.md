@@ -28,4 +28,4 @@ Pools: Allows users to spawn simple particles, create a sorted pool and a free p
 Simple Particle behavior: Allows users to spawn particles a little at a time, to have a constant spray, not fire them all at once.
   
 <h3>Credits</h3>
-This implementation was created by [your-name]. It is based on the provided renderer and the Look-At, Turn-To, and Mouse-Look algorithms from the lecture.
+This implementation was created by Ethan Stanks. It is based on the provided renderer and the Look-At, Turn-To, and Mouse-Look algorithms from the lecture.
