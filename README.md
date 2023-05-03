@@ -3,6 +3,7 @@
 This repository contains the implementation of an interactive 3D graphics application. The implementation uses the provided renderer as a base and allows users to simulate particles on a grid with different colors and behaviors. The implementation also includes the implementation of Look-At, Turn-To, and Mouse-Look algorithms from the lecture.
 
 **Installation**
+
 To use the implementation, you will need to have a C++ compiler and Visual Studio installed on your computer.
 
 Clone the repository using git clone https://github.com/<your-username>/<your-repo-name>.git.
@@ -10,6 +11,7 @@ Open the project in Visual Studio.
 Build and run the project.
 
 **Usage**
+
 The implementation simulates particles on a grid and allows users to use Look-At, Turn-To, and Mouse-Look algorithms. Users can control the movement of the particles and the camera using the following keys:
 
 Arrow keys: Move the camera
